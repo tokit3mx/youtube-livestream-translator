@@ -11,6 +11,7 @@ For now it sucks, since it doesn't do any threading.
 - SpeechRecognition 3.8.1
 - googletrans 4.0.0-rc.1
 - cutlet 0.1.17
+
 **You will also need ffmpeg, which you can download from here, or their website.**
 
 ## How to use
